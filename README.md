@@ -6,7 +6,6 @@ Após terminar o Ensino Médio, eu corri atrás de fazer uma faculdade que desen
 
 E agora, pretendo desenvolver minhas habilidades nas áreas de tecnologia, seja em Desenvolvimento de Hardware ou Software, Design, Front-End, Back-End, Jogos, Mobile, entre outros. Minha meta é de desenvolver e aprimorar meus conhecimentos em todas as áreas de tecnologia possíveis.
 
-Porém, o que eu mais gostaria de fazer na área de Tecnologia é me doutorar na área de Games e fazer meus jogos para o mundo os conhecer.
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-vieira-alves/)

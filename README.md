@@ -11,7 +11,7 @@ Após concluir o Ensino Médio, busquei uma faculdade que ampliasse meus conheci
 
 Minha meta agora é aprimorar minhas habilidades em diversas áreas da tecnologia, incluindo Desenvolvimento de Hardware e Software, Design, Front-End, Back-End, Jogos, Mobile, entre outras. Pretendo me desenvolver continuamente e expandir meus conhecimentos em todas as áreas tecnológicas possíveis.
 
-### English
+## English Apresentation
 My name is Cauã, I am 19 years old and I live in Itaquaquecetuba, Brazil. Since I was a child, I have had a great affinity for technology, whether playing games or using computers. This fascination sparked a desire to work in this field.
 
 When I entered high school, I took the entrance exam for the technical school in my city and was accepted into the System Development course. There, I began to develop my skills in the IT field.
@@ -36,7 +36,6 @@ My goal is to enhance my abilities across various technology sectors, including 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_de_Artes-250505?style=for-the-badge&logo=todoist&logoColor=white)](https://encurtador.com.br/QigOv)
 [![Portfolio](https://img.shields.io/badge/Portfolio_de_Desenvolvimento-250505?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Coruja-me?tab=repositories)
-
 
 ## Habilidades
 ### Hard Skills

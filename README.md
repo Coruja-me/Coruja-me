@@ -9,7 +9,7 @@ Ao ingressar no Ensino Médio, realizei a prova da Etec da minha cidade e fui ap
 
 Após concluir o Ensino Médio, busquei uma faculdade que ampliasse meus conhecimentos. Foi assim que ingressei na Fatec, onde atualmente curso Análise e Desenvolvimento de Sistemas.
 
-Minha meta agora é aprimorar minhas habilidades em diversas áreas da tecnologia, incluindo Desenvolvimento de Hardware e Software, Design, Front-End, Back-End, Jogos, Mobile, entre outras. Pretendo me desenvolver continuamente e expandir meus conhecimentos em todas as áreas tecnológicas possíveis.
+Minha meta é aprimorar minhas habilidades e me profissionalizar nas áreas de Full Stack, Front, Back ou em Game Dev.
 
 ## English Apresentation
 My name is Cauã, I am 19 years old and I live in Itaquaquecetuba, Brazil. Since I was a child, I have had a great affinity for technology, whether playing games or using computers. This fascination sparked a desire to work in this field.
@@ -18,7 +18,7 @@ When I entered high school, I took the entrance exam for the technical school in
 
 After graduating from high school, I pursued further education to deepen my knowledge. I am now enrolled in the undergraduate program in Systems Analysis and Development at Fatec, which I am currently attending.
 
-My goal is to enhance my abilities across various technology sectors, including Hardware and Software Development, Design, Front-End, Back-End, Game Development, Mobile, and more. I aim to continually develop and refine my skills in all possible areas of technology.
+My goal is to improve my skills and become a professional in the areas of Full Stack, Front End, Back End, or Game Development.
 
 ## Geral
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coruja-me&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)

@@ -1,6 +1,6 @@
 # **CAUÃ VIEIRA ALVES**
 ## Logo
-
+<img src="../../../logos/coruja logo transparente.png" />
 ## Apresentação
 Me chamo Cauã, tenho 19 anos e moro em Itaquaquecetuba. Desde criança, sempre tive uma grande proximidade com a tecnologia, seja jogando ou utilizando o computador. Essa afinidade despertou em mim o desejo de trabalhar nessa área.
 

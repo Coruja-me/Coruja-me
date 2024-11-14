@@ -1,6 +1,6 @@
 # **CAUÃ VIEIRA ALVES**
 ## Logo
-<img src="../../../logos/coruja logo transparente.png" />
+<img src="https://avatars.githubusercontent.com/u/178964215?v=4" />
 ## Apresentação
 Me chamo Cauã, tenho 19 anos e moro em Itaquaquecetuba. Desde criança, sempre tive uma grande proximidade com a tecnologia, seja jogando ou utilizando o computador. Essa afinidade despertou em mim o desejo de trabalhar nessa área.
 
@@ -31,7 +31,11 @@ My goal is to enhance my abilities across various technology sectors, including 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511972502558)
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cauavalves@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:coruja.me@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio_de_Artes-250505?style=for-the-badge&logo=todoist&logoColor=white)](https://encurtador.com.br/QigOv)
+[![Portfolio](https://img.shields.io/badge/Portfolio_de_Desenvolvimento-250505?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Coruja-me?tab=repositories)
+
 
 ## Habilidades
 ### Hard Skills

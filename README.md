@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/178964215?v=4" />
 
 ## Apresentação
-Me chamo Cauã, tenho 19 anos e moro em Itaquaquecetuba. Desde criança, sempre tive uma grande proximidade com a tecnologia, seja jogando ou utilizando o computador. Essa afinidade despertou em mim o desejo de trabalhar nessa área.
+Me chamo Cauã, tenho 20 anos e moro em Itaquaquecetuba. Desde criança, sempre tive uma grande proximidade com a tecnologia, seja jogando ou utilizando o computador. Essa afinidade despertou em mim o desejo de trabalhar nessa área.
 
 Ao ingressar no Ensino Médio, realizei a prova da Etec da minha cidade e fui aprovado no curso técnico de Desenvolvimento de Sistemas. Lá, comecei a desenvolver minhas habilidades na área de TI.
 
